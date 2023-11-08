@@ -1,0 +1,25 @@
+{
+  "pages": [{
+    "name": "Home",
+    "doc": "index"
+  },
+  {
+    "name": "About",
+    "doc": "about"
+  },
+  {
+    "name": "Development",
+    "doc": "README"
+  }],
+  "logo": "carbon.png",
+  "action": {
+    "URL": "//carbon.toggled.tech",
+    "text": "Try Carbon"
+  },
+  "title": "Carbon Starter",
+  "branding": {
+    "copyright": "Toggled.tech",
+    "URL": "//toggled.tech"
+  },
+  "script": "console.log('TEST SCRIPT!')"
+}

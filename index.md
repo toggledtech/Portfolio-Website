@@ -1,9 +1,12 @@
-# Welcome to Carbon
+## About Me
+Welcome to my portfolio! I'm [Your Name], a [Your Profession] based in [Your Location]. I'm passionate about [Your Interests/Hobbies] and have a deep love for [Your Field]. This page serves as a brief introduction to who I am, my interests, and what I can bring to the table.
 
-Thanks for choosing Carbon to make your site. We know there are a lot of choices so it means a lot!
+### My Interests
+- [Interest 1]
+- [Interest 2]
+- [Interest 3]
 
-Carbon provides a simple yet effective way to create websites.
-
-Using markdown the possibilities are endless. Plus we plan to expand to MarkdownX in the future.
-
-Find more info about Carbon on the [homepage](https://carbon.toggled.tech).
+### Contact Information
+- Email: [Your Email]
+- LinkedIn: [Your LinkedIn Profile]
+- GitHub: [Your GitHub Profile]

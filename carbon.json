@@ -4,12 +4,12 @@
     "doc": "index"
   },
   {
-    "name": "About",
+    "name": "My Work",
     "doc": "about"
   },
   {
-    "name": "Development",
-    "doc": "README"
+    "name": "Education and Experience",
+    "doc": "edu"
   }],
   "logo": "carbon.png",
   "action": {
@@ -20,6 +20,5 @@
   "branding": {
     "copyright": "Toggled.tech",
     "URL": "//toggled.tech"
-  },
-  "script": "console.log('TEST SCRIPT!')"
+  }
 }

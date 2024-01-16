@@ -1,4 +1,5 @@
 {
+  "ext": "md",
   "pages": [{
     "name": "Home",
     "doc": "index"
@@ -20,5 +21,6 @@
   "branding": {
     "copyright": "Toggled.tech",
     "URL": "//toggled.tech"
-  }
+  },
+  "members": ["cosmixcom"]
 }
